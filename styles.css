@@ -62,3 +62,10 @@ main {
     color: #555;
     line-height: 1.5;
 }
+
+.receitas {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
