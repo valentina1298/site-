@@ -118,3 +118,11 @@ main {
 .receita a:hover {
     background-color: #A52A2A;
 }
+
+footer {
+    background-color: #800000;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 200px;
+}
