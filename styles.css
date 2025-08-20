@@ -56,3 +56,9 @@ main {
     font-size: 2.8rem;
     color: #AF3E3E; 
 }
+
+.intro p {
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.5;
+}
