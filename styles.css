@@ -96,3 +96,9 @@ main {
     font-size: 1.6rem;
     color: #e75d45;
 }
+
+.receita p {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: #666;
+}
