@@ -84,3 +84,9 @@ main {
 .receita:hover {
     transform: scale(1.05);
 }
+
+.receita img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
