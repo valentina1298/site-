@@ -90,3 +90,9 @@ main {
     height: auto;
     border-radius: 10px;
 }
+
+.receita h4 {
+    margin-top: 15px;
+    font-size: 1.6rem;
+    color: #e75d45;
+}
