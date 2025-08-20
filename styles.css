@@ -69,3 +69,14 @@ main {
     gap: 20px;
     flex-wrap: wrap;
 }
+
+.receita {
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+    transition: transform 0.3s ease-in-out;
+}
