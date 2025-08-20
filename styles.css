@@ -80,3 +80,7 @@ main {
     padding: 20px;
     transition: transform 0.3s ease-in-out;
 }
+
+.receita:hover {
+    transform: scale(1.05);
+}
