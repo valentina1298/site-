@@ -9,3 +9,12 @@ body {
     background-color: #EAEBD0;
     color: #800000;
 }
+
+header {
+    background-color: #800000; 
+    color: white;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
