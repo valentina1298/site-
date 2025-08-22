@@ -5,17 +5,17 @@
 }
 
 :root {
-    --capuccino: #A87676;
-    --rosao: #CA8787;
-    --nude: #E1ACAC;
-    --rosinha: #ffeeee;
+    --vermelho: #e12f2f;
+    --vermelhinho: #da6f6f;
+    --azul: #acd2e1;
+    --azulzinho: #e0e6f5;
 }
 
 header {
     display: grid;
     width: 100%;
     grid-template-columns: 10% 90%;
-    background-color: var(--capuccino);
+    background-color: var(--vermelho);
     padding: 25px;
     position: relative;
     align-items: center;
@@ -36,7 +36,7 @@ header img {
 }
 
 body {
-    background-color: var(--rosinha);
+    background-color: var(--azulzinho);
 }
 
 .container {
@@ -52,7 +52,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: var(--nude);
+    background-color: var(--azul);
     border-radius: 15px;
     width: 420px;
     height: 220px;
@@ -72,7 +72,7 @@ footer {
     display: grid;
     grid-template-columns: 10% 90%;
     align-items: center;
-    background-color: var(--capuccino);
+    background-color: var(--vermelho);
     text-align: center;
     padding: 20px;
 }
@@ -97,5 +97,5 @@ footer img {
 }
 
 .icones a:hover {
-    color: var(--rosao);
+    color: var(--vermelhinho);
 }
