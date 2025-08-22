@@ -27,3 +27,10 @@ header img {
     margin: 10px;
     border-radius: 50px;
 }
+
+.titulocabecalho h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    color: white;
+}
