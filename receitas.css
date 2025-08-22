@@ -110,4 +110,11 @@ footer {
 footer img {
     width: 80%;
     border-radius: 55px;
-}
+
+
+.icones h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 10px;
+}}
