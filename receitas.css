@@ -75,3 +75,7 @@ header img {
     padding: 20px;
     border-radius: 10px;
 }
+
+.ingredientes, .preparo {
+    margin-bottom: 20px;
+}
