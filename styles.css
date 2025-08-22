@@ -87,12 +87,11 @@ footer img {
     border-radius: 55px;
 }
 
-
-.icones a {
-    color: var(--vermelho);
-    font-size: 30px;
-    margin: 0 10px;
-    transition: color 0.3s;
+.icones h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 10px;
 }
 
 .icones a:hover {
