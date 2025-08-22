@@ -79,3 +79,8 @@ header img {
 .ingredientes, .preparo {
     margin-bottom: 20px;
 }
+
+.ingredientes h4 h3, .preparo h4 h3 {
+    margin-bottom: 10px;
+    color: var(--capuccino);
+}
