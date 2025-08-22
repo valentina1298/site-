@@ -62,3 +62,10 @@ header img {
     font-size: 28px;
     margin-bottom: 20px;
 }
+
+.colunas {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    gap: 20px;
+    align-items: stretch;
+}
