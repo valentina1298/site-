@@ -15,3 +15,12 @@ body {
     background-color: var(--rosinha);
     font-family: Arial, sans-serif;
 }
+
+header {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 10% 65% 25%;
+    background-color: var(--capuccino);
+    padding: 25px;
+    align-items: center;
+}
