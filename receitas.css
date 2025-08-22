@@ -24,3 +24,9 @@ header {
     padding: 25px;
     align-items: center;
 }
+
+header img {
+    width: 70%;
+    margin: 10px;
+    border-radius: 50px;
+}
