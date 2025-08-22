@@ -21,3 +21,9 @@ header {
     align-items: center;
     justify-content: center;
 }
+
+header img {
+    width: 70%;
+    margin: 10px;
+    border-radius: 50px;
+}
