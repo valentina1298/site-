@@ -10,3 +10,8 @@
     --nude: #E1ACAC;
     --rosinha: #ffeeee;
 }
+
+body {
+    background-color: var(--rosinha);
+    font-family: Arial, sans-serif;
+}
