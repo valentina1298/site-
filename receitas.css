@@ -50,3 +50,9 @@ header img {
     text-decoration: none;
     color: white;
 }
+
+.conteudo {
+    max-width: 1200px;
+    margin: 30px auto;
+    padding: 20px;
+}
