@@ -10,3 +10,14 @@
     --nude: #E1ACAC;
     --rosinha: #ffeeee;
 }
+
+header {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 10% 90%;
+    background-color: var(--capuccino);
+    padding: 25px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
