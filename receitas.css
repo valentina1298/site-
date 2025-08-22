@@ -69,3 +69,9 @@ header img {
     gap: 20px;
     align-items: stretch;
 }
+
+.texto {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
