@@ -30,3 +30,9 @@ header img {
     margin: 10px;
     border-radius: 50px;
 }
+
+.titulocabecalho h1 {
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
