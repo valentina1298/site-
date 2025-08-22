@@ -69,7 +69,7 @@ main {
     margin-bottom: 40px;
 }
 
-.receita{
+.receitas{
     display: flex;
     justify-content: space-between;
     gap: 20px;
