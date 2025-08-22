@@ -68,3 +68,10 @@ main {
     font-size: 2rem;
     margin-bottom: 40px;
 }
+
+.receitas {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
