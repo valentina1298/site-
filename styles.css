@@ -67,3 +67,12 @@ body {
     line-height: 1.2;
     display: block;
 }
+
+footer {
+    display: grid;
+    grid-template-columns: 10% 90%;
+    align-items: center;
+    background-color: var(--capuccino);
+    text-align: center;
+    padding: 20px;
+}
