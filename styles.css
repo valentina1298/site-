@@ -63,7 +63,7 @@ main {
     line-height: 1.5;
 }
 
-.receitas {
+.receitas{
     display: flex;
     justify-content: space-between;
     gap: 20px;
