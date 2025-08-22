@@ -87,12 +87,6 @@ footer img {
     border-radius: 55px;
 }
 
-.icones h2 {
-    display: flex;
-    justify-content: center;
-    color: white;
-    margin: 10px;
-}
 
 .icones a {
     color: var(--nude);
