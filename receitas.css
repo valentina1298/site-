@@ -5,11 +5,12 @@
 }
 
 :root {
-    --capuccino: #A87676;
-    --rosao: #CA8787;
-    --nude: #E1ACAC;
-    --rosinha: #ffeeee;
+    --vermelho: #e12f2f;
+    --vermelhinho: #da6f6f;
+    --azul: #acd2e1;
+    --azulzinho: #e0e6f5;
 }
+
 
 body {
     background-color: var(--rosinha);
