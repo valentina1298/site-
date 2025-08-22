@@ -47,7 +47,7 @@ body {
     justify-items: center;
 }
 
-.receitinha {
+.receita {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,7 +60,7 @@ body {
     padding: 10px;
 }
 
-.receitinha a {
+.receita a {
     color: black;
     font-size: 50px;
     text-decoration: none;
