@@ -13,7 +13,7 @@
 
 
 body {
-    background-color: var(--rosinha);
+    background-color: var(--azulzinho);
     font-family: Arial, sans-serif;
 }
 
@@ -21,7 +21,7 @@ header {
     display: grid;
     width: 100%;
     grid-template-columns: 10% 65% 25%;
-    background-color: var(--capuccino);
+    background-color: var(--vermelho);
     padding: 25px;
     align-items: center;
 }
@@ -39,7 +39,7 @@ header img {
 }
 
 .menuzinho button {
-    background-color: var(--rosao);
+    background-color: var(--vermelhinho);
     border: none;
     padding: 10px 15px;
     margin: 0px 8px;
@@ -83,7 +83,7 @@ header img {
 
 .ingredientes h4 h3, .preparo h4 h3 {
     margin-bottom: 10px;
-    color: var(--capuccino);
+    color: var(--vermelho);
 }
 
 .ingredientes ul, .preparo ol {
@@ -103,7 +103,7 @@ footer {
     display: grid;
     grid-template-columns: 10% 90%;
     align-items: center;
-    background-color: var(--capuccino);
+    background-color: var(--vermelho);
     text-align: center;
     padding: 20px;
 }
@@ -121,12 +121,12 @@ footer img {
 }
 
 .icones a {
-    color: var(--nude); 
+    color: var(--azul); 
     font-size: 30px; 
     margin: 0 10px;
     transition: color 0.3s;
 }
 
 .icones a:hover {
-    color: var(--rosao); 
+    color: var(--vermelhinho); 
 }
