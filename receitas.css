@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root {
+    --capuccino: #A87676;
+    --rosao: #CA8787;
+    --nude: #E1ACAC;
+    --rosinha: #ffeeee;
+}
