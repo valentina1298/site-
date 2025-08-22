@@ -36,3 +36,12 @@ header img {
     font-size: 60px;
     color: white;
 }
+
+.menuzinho button {
+    background-color: var(--rosao);
+    border: none;
+    padding: 10px 15px;
+    margin: 0px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
